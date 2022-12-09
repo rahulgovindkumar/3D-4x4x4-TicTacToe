@@ -1,0 +1,11 @@
+__pycache__
+#Ignore .idea 
+.idea
+#Ignore .vscode
+.vscode
+#Ignore .pytest_cache
+.pytest_cache
+#Ignore .ipynb_checkpoints
+.ipynb_checkpoints
+#Ignore .vs
+.vs
