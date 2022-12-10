@@ -21,7 +21,7 @@ This is an advanced version of the classic tic-tac-toe game that has been design
 <b>1. Download Python 3.7+<br></br>
 <b>2. Clone the repo
 ```sh
-git clone https://github.com/rahulgovindkumar/3D-4x4x4x4-TicTacToe.git
+git clone https://https://github.com/rahulgovindkumar/3D-4x4x4-TicTacToe
 ```
 <b>3. Install Requirements.txt
 ```sh
