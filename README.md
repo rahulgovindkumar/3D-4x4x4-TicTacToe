@@ -54,3 +54,8 @@ python ./main.py
 <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/vscode-icon.svg" width="36" height="36" alt="VSCode Icon" />
 </p>
 
+## License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
