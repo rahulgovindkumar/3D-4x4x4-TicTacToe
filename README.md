@@ -54,8 +54,39 @@ python ./main.py
 <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/vscode-icon.svg" width="36" height="36" alt="VSCode Icon" />
 </p>
 
+
+## Project Structure
+```sh
+3D-4x4x4x4-TicTacToe
+├── .gitignore
+├── Board.py
+├── README.md
+├── LICENCE
+├── MiniMax.cpp
+├── requirement.txt
+├── View.py
+├──  main.py
+├── Resources
+|         ├──icon-1.png
+|         ├──level.mp3
+|         ├──player.mp3
+|         ├──Screenshot.PNG
+|         ├──start.mp3
+|         └──win.mp3
+└── cpp_executables
+      ├──MinMaxD_1
+      ├── MinMaxD_2
+      ├──MinMaxD_3
+      ├──MinMax_1
+      ├──MinMax_1.exe
+      ├──MinMax_2
+      ├──MinMax_2.exe
+      ├──MinMax_3
+      └──MinMax_3.exe
+
+```
+
+
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
