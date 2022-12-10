@@ -1,7 +1,6 @@
-## 4x4x4 Tic tac Toe
-This is a 3D tic-tac-toe using the minimax algorithm with alpha-beta pruning. It includes a GUI to make it enjoyable.
 
-Run main.py to play it.
+# About The Project
+This is a 3D tic-tac-toe using the minimax algorithm with alpha-beta pruning. It includes a GUI to make it enjoyable.
 
 ### Rules:
 - The game is played on a grid that's 4 by 4 by 4 squares.
@@ -24,3 +23,44 @@ Run main.py to play it.
 ### Screenshot:
 
 ![screenshot](https://github.com/rahulgovindkumar/3D-4x4-TIC-TAK-TOE/blob/main/resources/Screenshot.PNG)
+
+### Installation
+-----
+1. Download Python 3.7+
+2. Clone the repo
+   ```sh
+   git clone https://github.com/rahulgovindkumar/3D-4x4x4x4-TicTacToe.git
+   ```
+3. Install Requirements.txt
+   ```sh
+   pip install requirements.txt
+   ```
+4. Run main.py
+   ```js
+   python ./main.py
+   ```
+#### Note:
+
+For Linux users, prior to running the main.py, execute the following commands:
+   1. Change directory
+   ```sh
+   cd cpp_executables
+   ```
+   2. Give permissions
+   ```sh
+   chmod 754 *
+   ```
+   3. Switch to parent directory
+   ```sh
+   cd ..
+   ```
+
+
+### Built With
+-----
+<ul>
+<li>Python</li>
+<li>Pygame</lii>
+<li>C++</li>
+<li>VS Code</li>
+</ul>
