@@ -2,6 +2,8 @@
 # About The Project
 This is a 3D tic-tac-toe using the minimax algorithm with alpha-beta pruning. It includes a GUI to make it enjoyable.
 
+![screenshot](https://github.com/rahulgovindkumar/3D-4x4-TIC-TAK-TOE/blob/main/resources/Screenshot.PNG)
+
 ### Rules:
 - The game is played on a grid that's 4 by 4 by 4 squares.
 - You are **X**, and your friend (or the computer in this case) is **O**. Players take turns putting their marks in empty squares.
@@ -12,55 +14,43 @@ This is a 3D tic-tac-toe using the minimax algorithm with alpha-beta pruning. It
 - Click an empty box to make your move
 - Right Click to restart a game when the game ends.
 - Hit SPACE to toggle between modes.
-
-### Tech Used:
-- **Python** to code the game
-- Minimax program is written in **C++** to make it overall faster
-- **Pygame** for the GUI of the game
-- **GIT** for Version Control
-
-
-### Screenshot:
-
-![screenshot](https://github.com/rahulgovindkumar/3D-4x4-TIC-TAK-TOE/blob/main/resources/Screenshot.PNG)
-
-### Installation
 -----
-1. Download Python 3.7+
-2. Clone the repo
-   ```sh
-   git clone https://github.com/rahulgovindkumar/3D-4x4x4x4-TicTacToe.git
-   ```
-3. Install Requirements.txt
-   ```sh
-   pip install requirements.txt
-   ```
-4. Run main.py
-   ```js
-   python ./main.py
-   ```
-#### Note:
+## Installation
 
-For Linux users, prior to running the main.py, execute the following commands:
-   1. Change directory
+<b>1. Download Python 3.7+<br></br>
+<b>2. Clone the repo
+```sh
+git clone https://github.com/rahulgovindkumar/3D-4x4x4x4-TicTacToe.git
+```
+<b>3. Install Requirements.txt
+```sh
+pip install requirements.txt
+```
+<b>4. Run main.py
+```sh
+python ./main.py
+```
+### Note:
+
+   For Linux users, prior to running the main.py, execute the following commands:<br></br>
+   <b>1. Change directory
    ```sh
    cd cpp_executables
    ```
-   2. Give permissions
+   <b>2. Give permissions
    ```sh
    chmod 754 *
    ```
-   3. Switch to parent directory
+   <b>3. Switch to parent directory
    ```sh
    cd ..
    ```
+ -----
+## Built With
+<p align="left">
+<img width="75px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+<img width="75px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
+<img width = "75px" src="https://raw.githubusercontent.com/pygame/pygame/main/docs/reST/_static/pygame_logo.svg" width="36" height="36" alt="Pygame" />
+<img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/vscode-icon.svg" width="36" height="36" alt="VSCode Icon" />
+</p>
 
-
-### Built With
------
-<ul>
-<li>Python</li>
-<li>Pygame</lii>
-<li>C++</li>
-<li>VS Code</li>
-</ul>
