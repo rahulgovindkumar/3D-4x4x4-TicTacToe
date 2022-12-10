@@ -1,6 +1,6 @@
 
 # About The Project
-This is a 3D tic-tac-toe using the minimax algorithm with alpha-beta pruning. It includes a GUI to make it interactive.
+This is an advanced version of teh classic tic-tac-toe game that has been designed using the alpha-beta pruning. It includes a GUI to make it interactive.
 
 ![screenshot](https://github.com/rahulgovindkumar/3D-4x4-TIC-TAK-TOE/blob/main/resources/Screenshot.PNG)
 
