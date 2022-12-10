@@ -6,9 +6,9 @@ This is an advanced version of teh classic tic-tac-toe game that has been design
 
 ### Rules:
 - The game is played on a grid that's 4 by 4 by 4 squares.
-- You are **X**, and your friend (or the computer in this case) is **O**. Players take turns putting their marks in empty squares.
-- The first player to get 3 of her marks in a row (up, down, across, or diagonally across the face or the cube) is the winner.
-- When all 64 squares are full, the game is over. The game ends in a tie if no player has 3 marks in a row.
+- You are **X**, and the second player (or the computer in this case) is **O**. Players take turns putting their marks in empty squares.
+- The first player to get 4 marks in a row (up, down, across, or diagonally across the face or the cube) is the winner.
+- When all 64 squares are full, the game is over. The game ends in a tie if no player has 4 marks in a row.
 
 ### Instructions:
 - Click an empty box to make your move
