@@ -8,7 +8,7 @@ from View import SC, SW
 pygame.init()
 pygame.mixer.music.load('resources/start.mp3')
 pygame.mixer.music.play(0)
-pygame.display.set_caption("3D 4x4x4x4 TicTacToe ~ by Team 1")
+pygame.display.set_caption("3D 4x4x4 TicTacToe ~ by Team 1")
 programIcon = pygame.image.load('resources/icon-1.png')
 pygame.display.set_icon(programIcon)
 
