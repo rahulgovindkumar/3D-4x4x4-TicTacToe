@@ -13,7 +13,8 @@ This is a 3D tic-tac-toe using the minimax algorithm with alpha-beta pruning. It
 ### Instructions:
 - Click an empty box to make your move
 - Right Click to restart a game when the game ends.
-- Hit SPACE to toggle between modes.
+- Hit Key L to toggle between modes (Easy, Medium, Hard)
+- Hit Key P to toggle between Players (X First or O First)
 -----
 ## Installation
 
