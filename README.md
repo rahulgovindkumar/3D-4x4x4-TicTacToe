@@ -53,11 +53,11 @@ python ./main.py
    ```sh
    cd cpp_executables
    ``` 
-   <b>2. Give permissions to run the executible
+   <b>2. Give permissions to run the executible</b>
    ```sh
    chmod 755 
    ```
-    <b>3. Switch to parent directory
+   <b>3. Switch to parent directory</b>
    ```sh
    cd ..
    ```
