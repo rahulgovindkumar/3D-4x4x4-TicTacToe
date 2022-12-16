@@ -47,6 +47,15 @@ python ./main.py
    cd ..
    ```
  -----
+    For MAC users, prior to running the main.py, execute the following commands:<br></br>
+
+ 
+   <b>Give permissions to run the executible
+   ```sh
+   chmod 755 
+   ```
+ 
+ -----
 ## Built With
 <p align="left">
 <img width="75px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
