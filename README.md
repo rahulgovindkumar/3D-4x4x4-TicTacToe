@@ -49,12 +49,18 @@ python ./main.py
 
    </br></br>For MAC users, prior to running the main.py, execute the following commands:<br></br>
 
- 
-   <b>Give permissions to run the executible
+   <b>1. Change directory
+   ```sh
+   cd cpp_executables
+   ``` 
+   <b>2. Give permissions to run the executible
    ```sh
    chmod 755 
    ```
- 
+    <b>3. Switch to parent directory
+   ```sh
+   cd ..
+   ```
  -----
 ## Built With
 <p align="left">
