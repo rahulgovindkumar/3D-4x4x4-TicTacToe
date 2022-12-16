@@ -46,8 +46,8 @@ python ./main.py
    ```sh
    cd ..
    ```
- -----
-    For MAC users, prior to running the main.py, execute the following commands:<br></br>
+
+   </br></br>For MAC users, prior to running the main.py, execute the following commands:<br></br>
 
  
    <b>Give permissions to run the executible
